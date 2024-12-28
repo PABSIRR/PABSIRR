@@ -27,5 +27,6 @@ Languages:
 </p>
 
 Stats:
-  <img src="https://github-readme-stats.vercel.app/api?username=PABSIRR&show_icons=true&theme=dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=PABSIRR&show_icons=true&theme=dark"/>
   
